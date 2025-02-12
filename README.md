@@ -1,5 +1,5 @@
 <h1 align="center">
-codename goose
+MAVERICK - BECAUSE GOOSE DIED.
 </h1>
 
 <p align="center">
